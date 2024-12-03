@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a971c76-a1f5-48bc-ad6e-16a3529a07cb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Execute01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ExecuteQuery01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ExecuteUpdate01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ExecuteUpdate02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PreparedStatement01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Transaction01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Transaction02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,22 +30,22 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Execute01.executor": "Run",
-    "Application.ExecuteQuery01.executor": "Run",
-    "Application.ExecuteUpdate01.executor": "Run",
-    "Application.ExecuteUpdate02.executor": "Run",
-    "Application.PreparedStatement01.executor": "Run",
-    "Application.Transaction01.executor": "Run",
-    "Application.Transaction02.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "configurable.group.appearance"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Execute01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExecuteQuery01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExecuteUpdate01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExecuteUpdate02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PreparedStatement01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Transaction01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Transaction02.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Transaction02">
     <configuration name="ExecuteUpdate01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExecuteUpdate01" />
